@@ -1,0 +1,13 @@
+in
+in
+metka:
+pop bx
+pop ax
+push 0
+push bx
+sub
+push ax
+div
+out
+end
+
